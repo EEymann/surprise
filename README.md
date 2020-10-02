@@ -1,12 +1,10 @@
 # _Callback Functions in JavaScript_
 
-#### _This project shows how to use a One-Off Timer with setTimeout_
+#### _This project shows how to use a One-Off Timer with setTimeout to change the message displayed in the browser at a random time between 1 and 4 seconds. October, 2020._
 
 #### By _**Elizabeth Eymann**_
 
-## Description
-
-_This app was created for a TeamTreehouse project._
+_This app was created for a TeamTreehouse project. _
 ### Skills used:
 * _Callback functions_
 * _textContent and getElementById_
